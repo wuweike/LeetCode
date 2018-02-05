@@ -2,4 +2,4 @@
 ## Binary Search
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
-1 | [Two Sum](https://leetcode.com/problems/two-sum/description/) | [Java](./Shell/word-frequency.sh) </br> [JavaScript](./Shell/word-frequency.sh)| _O(n)_ | _O(k)_ | Medium ||
+1 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Java](./Java/Search_Insert_Position.java) | _O(logn)_ | _O(n)_ | Easy ||
