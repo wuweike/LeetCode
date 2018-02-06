@@ -11,7 +11,7 @@ class Search_Insert_Position {
             }else{
                 high = medium;
             }
-            medium = (low + high) / 2;
+            medium = (low + high) / 2; 
         }
         return target <= nums[low] ? low : target <= nums[high] ? high : high + 1;
     }
