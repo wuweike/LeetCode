@@ -3,6 +3,7 @@ class Search_Insert_Position {
         int low = 0;
         int high = nums.length - 1;
         int medium = (low + high) / 2;
+        
         while(low + 1 < high){
             if(nums[medium] == target){
                 return medium;
