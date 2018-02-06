@@ -3,3 +3,4 @@
 |  #  | Title           |  Solution       |  Time           | Space           | Difficulty    | 
 |-----|---------------- | --------------- | --------------- | --------------- | ------------- |
 1 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/) | [Java](./Java/Search_Insert_Position.java) | _O(logn)_ | _O(n)_ | Easy ||
+2 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Java](./Java/SqrtX.java) | _O(logn)_ | _O(n)_ | Easy ||
