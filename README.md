@@ -6,3 +6,4 @@
 [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/) | [Java](./Java/SqrtX.java) | _O(logn)_ | _O(1)_ | Easy ||
 [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/) | [Java](./Java/Intersection_of_Two_Arrays_II.java) | _O(nlogn)_ | _O(n)_ | Easy ||
 [Find Peak Element](https://leetcode.com/problems/find-peak-element/description/) | [Java](./Java/Find_Peak_Element.java) | _O(logn)_ | _O(1)_ | Medium ||
+[Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Java](./Java/Search_in_Rotated_Sorted_Array.java) | _O(logn)_ | _O(1)_ | Medium ||
