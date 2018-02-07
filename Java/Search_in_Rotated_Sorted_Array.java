@@ -1,4 +1,4 @@
-class Search_In_Rotated_Sorted_Array {
+class Search_in_Rotated_Sorted_Array {
     public int search(int[] nums, int target) {
         if(nums.length == 0){
             return -1;
