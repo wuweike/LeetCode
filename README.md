@@ -9,3 +9,7 @@
 [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/) | [Java](./Java/Search_in_Rotated_Sorted_Array.java) | _O(logn)_ | _O(1)_ | Medium ||
 [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/) | [Java](./Java/Find_Minimum_in_Rotated_Sorted_Array.java) | _O(logn)_ | _O(1)_ | Medium ||
 [Pow(x, n)](https://leetcode.com/problems/powx-n/description/) | [Java](./Java/PowXN.java) | _O(logn)_ | _O(1)_ | Medium ||
+## Tree
+| Title           |  Solution       |  Time           | Space           | Difficulty    | 
+|---------------- | --------------- | --------------- | --------------- | ------------- |
+[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Java](./Java/Maximum_Depth_of_Binary_Tree.java) | _O(n)_ | _O(h)_ | Easy ||
