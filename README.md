@@ -15,3 +15,4 @@
 [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Java](./Java/Maximum_Depth_of_Binary_Tree.java) | _O(n)_ | _O(h)_ | Easy ||
 [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [Java](./Java/Invert_Binary_Tree.java) | _O(n)_ | _O(h)_ | Easy ||
 [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/description/) | [Java](./Java/Merge_Two_Binary_Trees.java) | _O(n)_ | _O(h)_ | Easy ||
+[Same Tree](https://leetcode.com/problems/same-tree/description/) | [Java](./Java/Same_Tree.java) | _O(n)_ | _O(h)_ | Easy ||
