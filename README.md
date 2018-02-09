@@ -13,3 +13,4 @@
 | Title           |  Solution       |  Time           | Space           | Difficulty    | 
 |---------------- | --------------- | --------------- | --------------- | ------------- |
 [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/description/) | [Java](./Java/Maximum_Depth_of_Binary_Tree.java) | _O(n)_ | _O(h)_ | Easy ||
+[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/) | [Java](./Java/Invert_Binary_Tree.java) | _O(n)_ | _O(h)_ | Easy ||
